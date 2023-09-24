@@ -4,8 +4,6 @@ Hello everyone, thank you for viewing the project. I would be very happy if you 
 
 I found this project in the Figma community section and I wanted to recreate it using HTML and CSS, that's all. I'm still working on making it responsive. You can check out the new commits. I hope it helps everyone. 
 
-[Live link!](nestway-landing-page.vercel.app)
-
 <br>
 
 ## Preview
