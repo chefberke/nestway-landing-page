@@ -115,7 +115,7 @@ nav div {
     background-color: var(--search-bar);
     color: var(--white);
     border-radius: 2rem;
-    width: 36rem;
+    width: 50%;
     height: 4rem;    
     cursor: pointer;
 }
@@ -146,17 +146,17 @@ nav div {
     margin: auto;
     margin-top: 2rem;
     border-radius: 20px;
-    width: 65rem;
+    width: 70%;
     height: 38rem;
 }
 
 .image-content {
     color: #fff;
-    padding-top: 18rem;
+    padding-top: 17rem;
     position: absolute;
     display: flex;
     justify-content: space-between;
-    width: 60rem;
+    width: 65%;
 }
 
 .image-inside {
@@ -183,7 +183,7 @@ nav div {
 }
 
 .content-left button {
-    width: 12rem;
+    width: 50%;
     height: 3.5rem;
     background-color: var(--white);
     border: none;
@@ -248,7 +248,7 @@ nav div {
 }
 
 .circle img {
-    width: 8rem;
+    width: 40%;
 }
 
 .circle h3, .circle p {
@@ -319,7 +319,7 @@ section {
 
 .offers {
     padding: 1rem;
-    width: 20rem;
+    width: 30%;
     height: 26rem;
     border-radius: 10px;
     border: 2px var(--search-bar) solid;
@@ -396,7 +396,7 @@ section {
     border: 2px solid var(--search-bar);
     border-radius: 10px;
     margin-top: 5rem;
-    width: 10rem;
+    width: 13%;
     height: 3.2rem;
     cursor: pointer;
 }
@@ -480,13 +480,13 @@ section {
     margin: 1rem;
     border: 2px var(--search-bar) solid;
     border-radius: 30px;
-    width: 17rem;
+    width: 20%;
     height: 25rem;
 }
 
 .matches-box div {
     background-color: var(--search-bar);
-    width: 17rem;
+    width: 20%;
     height: 25rem;
     border-radius: 30px;
     opacity: 0.2;
@@ -587,7 +587,7 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(/image/Rectangle\ 3.png);
-    width: 65rem;
+    width: 70%;
     height: 38rem;
     border-radius: 20px;
     justify-content: center;
@@ -621,7 +621,7 @@ section {
 .smaller-images button {
     border: none;
     background-color: var(--white);
-    width: 11.5rem;
+    width: 10rem;
     height: 3.2rem;
     border-radius: 10px;
     font-size: 1rem;
@@ -659,7 +659,7 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(/image/Rectangle\ 4.png);
-    width: 31.5rem;
+    width: 33%;
     height: 30rem;
     border-radius: 20px;
     justify-content: center;
@@ -673,7 +673,7 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(/image/Rectangle\ 5.png);
-    width: 31.5rem;
+    width: 33%;
     height: 30rem;
     border-radius: 20px;
     justify-content: center;

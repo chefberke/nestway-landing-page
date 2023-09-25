@@ -1,0 +1,166 @@
+@media (max-width: 885px) {
+
+    #top-side {
+        flex-wrap: wrap;
+    }
+
+    nav {
+        flex-wrap: wrap;
+    }
+
+    nav div:last-child {
+        display: none;
+    }
+
+    .nestway-theme {
+        display: none;
+    }
+
+    /*
+    */
+
+    .image-main {
+        width: 80%;
+        height: 60%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .image-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+        padding-top: 10rem;
+        gap: 4rem;
+    }
+
+    .image-content h3 {
+        font-size: 3rem;
+    }
+
+    .content-left button {
+        display: none;
+    }
+
+    .content-left {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .content-right {
+        margin: 0;
+        padding: 0;
+        padding-top: 2rem;
+    }
+
+    .content-right h3 {
+        font-size: 1.4rem;
+    }
+
+    .content-right img {
+        width: 4rem;
+    }
+
+    /*
+    */
+
+   
+    .circle-side {
+        font-size: 0.8rem;
+    }
+
+    .circle-side img {
+        width: 45%;
+    }
+
+    /*
+    */
+
+    #sidney-offers {
+        gap: 1.5rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+
+    #offers-title {
+        margin: 0;
+        margin-left: 3.7rem;
+    }
+
+    .offers h2 {
+        font-size: 1rem;
+    }
+
+    /*
+    */
+
+    .arrow-title {
+        margin-left: 4rem;
+    }
+
+    #arrow-nav {
+        flex-wrap: wrap;
+    }
+
+    .arrow-right {
+        display: none;
+        background-color: var(--bg);
+        color: var(--bg);
+    }
+
+
+    #best-matches {
+        margin: 0;
+        margin-top: 4rem;
+    }
+
+    #matches-button {
+        display: none;
+    }
+
+    #best-matches h1 {
+        font-size: 1.2rem;
+    }
+
+
+    #matches-box-2 h1,
+    #matches-box-2 p,
+    #matches-box-3 h1,
+    #matches-box-3 p,
+    #matches-box-4 h1,
+    #matches-box-4 p  {
+     margin-left : 0.2rem;
+     font-size: 1.2rem;
+}
+
+   #matches-box-2 p,
+   #matches-box-3 p,
+   #matches-box-4 p {
+    margin-top: 20rem;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+   #matches-box-4 h1,
+   #matches-box-4 p{
+    font-size: 1.01rem;
+   }
+
+   .bigger-box-1 {
+    width: 80%;
+   }
+
+   .smaller-images-1 {
+    width: 38%;
+   }
+   .smaller-images-2 {
+    width: 38%;
+   }
+
+}
