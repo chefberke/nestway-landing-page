@@ -1,8 +1,12 @@
 # Nestway Home Landing Page
 
-Hello everyone, thank you for viewing and reviewing the project. I would be very happy if you could leave a star rating.
+Hello everyone, thank you for viewing the project. I would be very happy if you could leave a star rating.
 
-I found this project in the Figma community section and I wanted to recreate it using HTML and CSS, that's all. I'm still working on making it responsive. You can check out the new commits. I hope it helps everyone.
+I found this project in the Figma community section and I wanted to recreate it using HTML and CSS, that's all. I'm still working on making it responsive. You can check out the new commits. I hope it helps everyone. 
+
+<br>
+
+## Preview
 
 <img src="https://cdn.discordapp.com/attachments/1141057168628514907/1155215763607654501/Screenshot_2023-09-23_at_21.53.57.png"/>
 <img src="https://cdn.discordapp.com/attachments/1141057168628514907/1155215781823529020/Screenshot_2023-09-23_at_21.54.06.png"/>
